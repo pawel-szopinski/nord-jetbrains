@@ -378,7 +378,7 @@
     },
     "Tree": {
       "background": "#323846",
-      "selectionBackground": "#88c0d0",
+      "selectionBackground": "#7aacbb",
       "selectionForeground": "#2e3440"
     },
     "ValidationTooltip": {
